@@ -7,7 +7,7 @@ package domain;
 
 /**
  *
- * @author Yvheniy
+ * @author Sydorenko
  */
 interface MyExercise {
     
